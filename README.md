@@ -51,7 +51,7 @@ Each tier is isolated using AWS networking and security controls to improve:
 
 # 🏗️ Architecture Diagram
 
-https://github.com/Khaula-cloud/AWS-3-Tier-Architecture-Project/blob/main/ArchitectureDiagram/aws_3tier_architecture_diagram.svg
+https://raw.githubusercontent.com/Khaula-cloud/AWS-3-Tier-Architecture-Project/3c9a793fe1a7d09f0cd054601656b4030d2d6a8a/ArchitectureDiagram/aws_3tier_architecture_diagram.svg?token=ASWNKAEAEBCVDYLNW3ADNW3KDXOBI
 
 # 📊 AWS Services Used
 
