@@ -173,15 +173,20 @@ RDS Security Group
 ```bash
 AWS-3-Tier-Architecture-Project/
 │
-├── scripts/
-│   ├── 01-vpc-setup.sh
-│   ├── 02-security-groups.sh
-│   ├── 03-rds-setup.sh
-│   ├── 04-alb-setup.sh
-│   └── 05-asg-setup.sh
+├── Screenshots/
+│   ├── Architecture Diagram.svg
+│   ├── Health Check.PNG
+│   ├── Project Services lists.PNG
+│   ├── Running App.PNG
 │
-├── diagrams/
-│   └── architecture.png
+├── docs/
+│   └── troubleshooting.md
+│
+├── scripts/
+│   └── 01-vpc.sh
+│
+├── userdata/
+│   └── frontend.sh
 │
 └── README.md
 ```
