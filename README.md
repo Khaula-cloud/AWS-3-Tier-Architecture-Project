@@ -361,36 +361,17 @@ RDS is:
 
 # 📷 Screenshots
 
-Add screenshots here:
-
 ### AWS Architecture
+![AWS 3-Tier Architecture](Screenshots/Architecture%20Diagram.svg)
 
-```text
-screenshots/architecture.png
-```
+### Load Balancer Health Check
+![Health Check](Screenshots/Health%20Check.PNG)
 
-### VPC Dashboard
+### Project Services
+![Project Services](Screenshots/Project%20Services%20lists.PNG)
 
-```text
-screenshots/vpc.png
-```
-
-### Auto Scaling Groups
-
-```text
-screenshots/asg.png
-```
-
-### Load Balancer
-
-```text
-screenshots/alb.png
-```
-
-### RDS Database
-
-```text
-screenshots/rds.png
+### Running Application
+![Running App](Screenshots/Running%20App.PNG)
 ```
 
 ---
